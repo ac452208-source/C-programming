@@ -15,7 +15,7 @@ Your goal is to guess the number before your chances run out!
 
 
 
-        ========= HOW THE GAME WORKS ====================
+        ======== HOW THE GAME WORKS ===================
 
 
 
